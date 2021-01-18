@@ -1,4 +1,4 @@
-# absence management 
+# Absence management 
 Contexte du projet
 
 Dans le but d’informatiser les outils administratifs dédiés à la gestion. On propose développer Une application desktop qui permet la gestion des absences des apprenants dans notre Fabrique. Cette dernière offre la possibilité de visualiser et recapitulariser le taux de présence De chaque apprenant. Description de l’application : L’application est sensée de réaliser les tâches offert dans le fichier Excel disponibles comme Ressource en rajoutant certaines fonctionnalités telle que :
